@@ -61,7 +61,6 @@ p {
 .nav-link {
     font-size: 1.2rem;
     font-family: "Montserrat", sans-serif;
-    font-weight: lighter;
 }
 
 /* Download Button */
@@ -123,7 +122,7 @@ p {
 }
 
 .testimonial-image {
-    width: 10%;
+    width: 15%;
     border-radius: 100%;
     margin: 20px;
 }
@@ -178,7 +177,7 @@ p {
 
 @media (max-width: 500px) {
     .testimonial-text {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .big-heading {
@@ -186,7 +185,7 @@ p {
     }
 
     .section-heading {
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
 
     .price-text {
