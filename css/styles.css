@@ -184,4 +184,13 @@ p {
     .big-heading {
         font-size: 2.5rem;
     }
+
+    .section-heading {
+        font-size: 2.2rem;
+    }
+
+    .price-text {
+        font-size: 1.8rem;
+        line-height: 1.5;
+    }
 }
